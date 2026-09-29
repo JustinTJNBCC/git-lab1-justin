@@ -2,3 +2,4 @@ Learn Git
 Use GitHub
 Manage versions
 Become Rich
+This line was added by mistake.
